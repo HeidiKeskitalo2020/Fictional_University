@@ -1,0 +1,22 @@
+[21-Jan-2021 09:32:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php on line 287
+[21-Jan-2021 09:32:10 UTC] PHP Stack trace:
+[21-Jan-2021 09:32:10 UTC] PHP   1. {main}() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php:0
+[21-Jan-2021 09:32:10 UTC] PHP   2. require() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php:17
+[21-Jan-2021 09:32:10 UTC] PHP   3. require_once() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php:13
+[21-Jan-2021 09:32:10 UTC] PHP   4. require_once() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php:37
+[21-Jan-2021 09:32:10 UTC] PHP   5. require_once() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php:77
+[21-Jan-2021 09:32:10 UTC] PHP   6. do_action() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php:535
+[21-Jan-2021 09:32:10 UTC] PHP   7. WP_Hook->do_action() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php:484
+[21-Jan-2021 09:32:10 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php:311
+[21-Jan-2021 09:32:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php on line 287
+[21-Jan-2021 09:32:10 UTC] PHP Stack trace:
+[21-Jan-2021 09:32:10 UTC] PHP   1. {main}() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php:0
+[21-Jan-2021 09:32:10 UTC] PHP   2. require() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php:17
+[21-Jan-2021 09:32:10 UTC] PHP   3. require_once() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php:13
+[21-Jan-2021 09:32:10 UTC] PHP   4. require_once() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php:37
+[21-Jan-2021 09:32:10 UTC] PHP   5. require_once() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php:77
+[21-Jan-2021 09:32:10 UTC] PHP   6. do_action() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php:535
+[21-Jan-2021 09:32:10 UTC] PHP   7. WP_Hook->do_action() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php:484
+[21-Jan-2021 09:32:10 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php:311
+[21-Jan-2021 09:38:36 UTC] PHP Parse error:  syntax error, unexpected '>' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 20
+[21-Jan-2021 09:38:59 UTC] PHP Parse error:  syntax error, unexpected '">About Us</a></li>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 19
