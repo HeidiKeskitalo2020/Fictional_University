@@ -20,3 +20,11 @@
 [21-Jan-2021 09:32:10 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php:311
 [21-Jan-2021 09:38:36 UTC] PHP Parse error:  syntax error, unexpected '>' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 20
 [21-Jan-2021 09:38:59 UTC] PHP Parse error:  syntax error, unexpected '">About Us</a></li>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 19
+[21-Jan-2021 10:41:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\page.php on line 23 and exactly 1 expected in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\post.php:7204
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\page.php(23): wp_get_post_parent_id()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Heidi\\...')
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
+#4 {main}
+  thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\post.php on line 7204
