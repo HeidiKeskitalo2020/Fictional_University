@@ -35,3 +35,10 @@ Stack trace:
 #2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
 #3 {main}
   thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\index.php on line 13
+[21-Jan-2021 12:32:40 UTC] PHP Parse error:  syntax error, unexpected 'add_theme_support' (T_STRING) in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 14
+[21-Jan-2021 12:33:18 UTC] PHP Parse error:  syntax error, unexpected 'add_theme_support' (T_STRING) in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 14
+[21-Jan-2021 12:33:18 UTC] PHP Parse error:  syntax error, unexpected 'add_theme_support' (T_STRING) in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 14
+[21-Jan-2021 12:33:18 UTC] PHP Parse error:  syntax error, unexpected 'add_theme_support' (T_STRING) in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 14
+[21-Jan-2021 12:33:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 13
+[21-Jan-2021 12:33:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 13
+[21-Jan-2021 12:41:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 21
