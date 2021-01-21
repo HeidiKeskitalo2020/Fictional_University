@@ -28,3 +28,10 @@ Stack trace:
 #3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
 #4 {main}
   thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\post.php on line 7204
+[21-Jan-2021 11:11:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function tripleMe() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\index.php:13
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
+#3 {main}
+  thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\index.php on line 13
