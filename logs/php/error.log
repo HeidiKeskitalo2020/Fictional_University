@@ -57,3 +57,10 @@ Stack trace:
 #2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
 #3 {main}
   thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\archive.php on line 11
+[25-Jan-2021 09:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echowp_trim_words() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\front-page.php:61
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
+#3 {main}
+  thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\front-page.php on line 61
