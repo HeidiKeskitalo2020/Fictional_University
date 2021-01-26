@@ -135,3 +135,17 @@ Stack trace:
 #4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Heidi\\...')
 #5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
 #6 C:\Users\Heidi\Local  in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 23
+[26-Jan-2021 15:34:27 UTC] PHP Fatal error:  Uncaught Error: Class 'DayTime' not found in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\front-page.php:30
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
+#3 {main}
+  thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\front-page.php on line 30
+[26-Jan-2021 15:35:22 UTC] PHP Fatal error:  Uncaught Error: Class 'DayTime' not found in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\front-page.php:30
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
+#3 {main}
+  thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\front-page.php on line 30
