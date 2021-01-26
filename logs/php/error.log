@@ -90,3 +90,48 @@ Stack trace:
 [26-Jan-2021 09:16:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\mu-plugins\university-post-types.php on line 5
 [26-Jan-2021 09:16:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\mu-plugins\university-post-types.php on line 5
 [26-Jan-2021 09:56:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\front-page.php on line 41
+[26-Jan-2021 10:47:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_tupe_archive_lint() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php:23
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Heidi\\...', true, Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\archive-event.php(3): get_header()
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local  in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 23
+[26-Jan-2021 10:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_tupe_archive_lint() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php:23
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Heidi\\...', true, Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\archive-event.php(3): get_header()
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local  in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 23
+[26-Jan-2021 10:47:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_tupe_archive_lint() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php:23
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Heidi\\...', true, Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\archive-event.php(3): get_header()
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local  in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 23
+[26-Jan-2021 13:07:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_tupe_archive_lint() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php:23
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Heidi\\...', true, Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\archive-event.php(3): get_header()
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local  in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 23
+[26-Jan-2021 13:08:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_tupe_archive_lint() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php:23
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Heidi\\...', true, Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\archive-event.php(3): get_header()
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local  in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\header.php on line 23
