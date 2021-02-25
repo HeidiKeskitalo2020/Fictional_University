@@ -359,3 +359,17 @@ Stack trace:
 #4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
 #5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
 #6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(13): require_once('C:\\ in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 12:27:02 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 16
+[25-Feb-2021 12:27:03 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 16
+[25-Feb-2021 12:27:56 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 16
+[25-Feb-2021 12:27:56 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 16
+[25-Feb-2021 12:27:58 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 16
+[25-Feb-2021 12:27:58 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 16
+[25-Feb-2021 12:43:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\page.php on line 7 and exactly 1 expected in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:3
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\page.php(7): pageBanner()
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Heidi\\...')
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Heidi\\...')
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
+#4 {main}
+  thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 3
