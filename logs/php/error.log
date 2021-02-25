@@ -170,3 +170,192 @@ Stack trace:
 #2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\index.php(17): require('C:\\Users\\Heidi\\...')
 #3 {main}
   thrown in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\single-program.php on line 49
+[25-Feb-2021 09:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\async-upload.php(20): require_onc in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:04:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:04:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:04:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\async-upload.php(20): require_onc in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:05:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:05:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin-ajax.php(22): require_once( in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin.php(34): require_once('C:\\ in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:05:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin.php(34): require_once('C:\\ in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:05:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(13): require_once('C:\\ in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:07:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-admin\admin.php(34): require_once('C:\\ in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
+[25-Feb-2021 09:07:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_image_soze() in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php:18
+Stack trace:
+#0 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-config.php(77): require_once('C:\\Users\\Heidi\\...')
+#5 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-load.php(37): require_once('C:\\Users\\Heidi\\...')
+#6 C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-blog-header.php(13): require_once('C:\\ in C:\Users\Heidi\Local Sites\functionaluniversity\app\public\wp-content\themes\fictional_university_thema\functions.php on line 18
